@@ -1,0 +1,56 @@
+.nav-wrapper{
+    background-color:white;
+    color: black;
+}
+
+
+.slider .indicators .indicator-item.active{
+    background-color: #120E43;
+
+}
+.move{
+margin-top: 50px;
+margin-bottom: 125px;
+margin-right: 50px;
+    
+}
+.parallax-container{
+min-height: 100px;
+height: 500px;
+width: auto;
+}
+.abBtn{
+    border: solid 2px #1a237e;
+    color: black;
+    border-radius: 15px;
+    background-color: white;
+}
+.abBtn:hover{
+    color: #4527a0;
+    background-color:white ;
+}
+
+.ffooter{
+    background-color: black;
+}
+.fimg{
+    background-color: white;
+    width:50px;
+    border-radius:50%;
+}
+.imgSet{
+    width:50px;
+    border-radius: 50%;
+}
+.parallax-container{
+    height: 700px;
+}
+.contributionSubmit:hover{
+    color: white;
+}
+.contributionSubmit:active{
+    color: black;
+}
+.fileButton:hover{
+    color: white;
+}
